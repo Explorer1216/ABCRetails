@@ -21,8 +21,7 @@ public class SampleTest {
     public static void main(String[] args) throws NoAlertPresentException,InterruptedException {
         // TODO Auto-generated method stub
 
-        //System.setProperty("webdriver.chrome.driver", "I:\\Bhasker-ShiroCode\\work\\chromedriver.exe");
-/*        System.setProperty("Webdriver.chrome.driver", "D:\\JavaWS\\ABCRetails\\Drivers\\chromedriver.exe");
+        /*        System.setProperty("Webdriver.chrome.driver", "D:\\JavaWS\\ABCRetails\\Drivers\\chromedriver.exe");
 
         WebDriver driver = new ChromeDriver();
 
