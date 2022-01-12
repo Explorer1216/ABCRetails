@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+
+<suite name="Sanity">
+
+<listeners>
+<listener class-name="com.abcbanking.utilities.Reportlistener"/>
+</listeners>
+
+	<test name="RetailUserModules">
+		<parameter name="browser" value="chrome"></parameter>
+			<classes>
+					<class name="com.abcbanking.testCases.LoginPageInvalidUser"></class>		
+			</classes>
+	</test>
+
+	<!-- 
+    To Run Tests in IE Browser 
+
+	<test name="RetailUserModules">
+		<parameter name="browser" value="ie"></parameter>
+			<classes>
+			<class name="com.abcbanking.testCases.LoginPageTest"></class>
+			<class name="com.abcbanking.testCases.LoginUsersDDT"></class>
+			<class name="com.abcbanking.testCases.TC_CreateNewUser"></class>		
+			
+			<class name="com.abcbanking.testCases.LoginPageTest"></class>
+			<class name="com.abcbanking.testCases.LoginUsersDDT"></class>
+				
+</classes>
+	</test>
+	-->
+
+</suite>

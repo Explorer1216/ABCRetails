@@ -1,0 +1,381 @@
+[INFO ] 2022-01-02 16:00:51.211 [main] BaseClass - This is Info
+[WARN ] 2022-01-02 16:00:51.215 [main] BaseClass - This is Warn
+[ERROR] 2022-01-02 16:00:51.215 [main] BaseClass - This is error
+[FATAL] 2022-01-02 16:00:51.215 [main] BaseClass - This is fatal
+[INFO ] 2022-01-02 19:11:31.269 [main] BaseClass - Entered Username
+[INFO ] 2022-01-02 19:11:31.391 [main] BaseClass - Entered Password
+[INFO ] 2022-01-02 19:11:32.895 [main] BaseClass - Clicked loginButton
+[ERROR] 2022-01-02 19:11:32.896 [main] BaseClass - This is error
+[FATAL] 2022-01-02 19:11:32.896 [main] BaseClass - This is fatal
+[INFO ] 2022-01-02 19:37:16.835 [main] BaseClass - Entered Username
+[INFO ] 2022-01-02 19:37:16.937 [main] BaseClass - Entered Password
+[INFO ] 2022-01-02 19:37:18.315 [main] BaseClass - Clicked loginButton
+[ERROR] 2022-01-02 19:37:18.315 [main] BaseClass - This is error
+[FATAL] 2022-01-02 19:37:18.315 [main] BaseClass - This is fatal
+[INFO ] 2022-01-02 21:51:39.908 [main] BaseClass - Entered Username
+[INFO ] 2022-01-02 21:51:39.947 [main] BaseClass - Entered Password
+[INFO ] 2022-01-02 21:51:40.268 [main] BaseClass - Clicked loginButton
+[ERROR] 2022-01-02 21:51:40.268 [main] BaseClass - This is error
+[FATAL] 2022-01-02 21:51:40.269 [main] BaseClass - This is fatal
+[INFO ] 2022-01-03 13:11:29.629 [main] BaseClass - Entered Username
+[INFO ] 2022-01-03 13:11:29.813 [main] BaseClass - Entered Password
+[INFO ] 2022-01-03 13:11:35.939 [main] BaseClass - Clicked loginButton
+[ERROR] 2022-01-03 13:11:35.939 [main] BaseClass - This is error
+[FATAL] 2022-01-03 13:11:35.939 [main] BaseClass - This is fatal
+[INFO ] 2022-01-03 20:11:31.672 [main] BaseClass - Entered Username
+[INFO ] 2022-01-03 20:11:31.819 [main] BaseClass - Entered Password
+[INFO ] 2022-01-03 20:11:33.874 [main] BaseClass - Clicked loginButton
+[ERROR] 2022-01-03 20:11:33.875 [main] BaseClass - This is error
+[FATAL] 2022-01-03 20:11:33.875 [main] BaseClass - This is fatal
+[INFO ] 2022-01-03 22:34:16.284 [main] BaseClass - Entered Username
+[INFO ] 2022-01-03 22:34:16.324 [main] BaseClass - Entered Password
+[INFO ] 2022-01-03 22:34:18.390 [main] BaseClass - Clicked loginButton
+[ERROR] 2022-01-03 22:34:18.391 [main] BaseClass - This is error
+[FATAL] 2022-01-03 22:34:18.391 [main] BaseClass - This is fatal
+[INFO ] 2022-01-03 22:39:34.702 [main] BaseClass - Entered Username
+[INFO ] 2022-01-03 22:39:34.743 [main] BaseClass - Entered Password
+[INFO ] 2022-01-03 22:39:36.830 [main] BaseClass - Clicked loginButton
+[ERROR] 2022-01-03 22:39:36.830 [main] BaseClass - This is error
+[FATAL] 2022-01-03 22:39:36.830 [main] BaseClass - This is fatal
+[INFO ] 2022-01-05 10:19:31.373 [main] BaseClass - Entered Username
+[INFO ] 2022-01-05 10:19:31.465 [main] BaseClass - Entered Password
+[INFO ] 2022-01-05 10:19:33.085 [main] BaseClass - Clicked loginButton
+[ERROR] 2022-01-05 10:19:33.085 [main] BaseClass - This is error
+[FATAL] 2022-01-05 10:19:33.087 [main] BaseClass - This is fatal
+[INFO ] 2022-01-06 00:31:53.052 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 00:31:53.177 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 00:31:53.639 [main] BaseClass - Clicked loginButton
+[ERROR] 2022-01-06 00:31:53.639 [main] BaseClass - This is error
+[FATAL] 2022-01-06 00:31:53.639 [main] BaseClass - This is fatal
+[INFO ] 2022-01-06 00:35:58.004 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 00:35:58.089 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 00:35:58.811 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 00:40:01.030 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 00:40:01.191 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 00:40:01.649 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 00:42:04.528 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 00:42:04.611 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 00:42:05.070 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 00:42:45.424 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 00:42:45.515 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 00:42:45.997 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 00:43:36.507 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 00:43:36.590 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 00:43:37.013 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 00:44:54.934 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 00:44:55.032 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 00:44:55.486 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 00:46:51.461 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 00:46:51.561 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 00:46:51.953 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 00:50:38.361 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 00:50:38.499 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 00:50:38.941 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 11:42:37.805 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 11:42:37.911 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 11:42:39.464 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 11:45:30.469 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 11:45:30.829 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 11:45:31.337 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 11:48:05.004 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 11:48:05.157 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 11:48:05.649 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 11:48:57.831 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 11:48:57.942 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 11:48:59.399 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 18:23:40.101 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 18:23:40.142 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 18:23:46.599 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 18:23:56.875 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 18:23:56.911 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 18:23:57.555 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 18:41:33.523 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 18:41:33.573 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 18:41:38.425 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-06 18:41:45.178 [main] BaseClass - Entered Username
+[INFO ] 2022-01-06 18:41:45.217 [main] BaseClass - Entered Password
+[INFO ] 2022-01-06 18:41:45.663 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-08 23:54:44.578 [main] BaseClass - Entered Username
+[INFO ] 2022-01-08 23:54:44.725 [main] BaseClass - Entered Password
+[INFO ] 2022-01-08 23:54:46.590 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-08 23:59:35.094 [main] BaseClass - Entered Username
+[INFO ] 2022-01-08 23:59:35.211 [main] BaseClass - Entered Password
+[INFO ] 2022-01-08 23:59:37.464 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 00:08:18.662 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 00:08:18.762 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 00:08:20.560 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 00:12:46.122 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 00:12:46.228 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 00:12:48.000 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 00:14:15.863 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 00:14:16.007 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 00:14:18.079 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 00:20:35.877 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 00:20:36.060 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 00:20:37.778 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 10:53:10.427 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 10:53:10.513 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 10:53:12.316 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 10:55:12.149 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 10:55:12.240 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 10:55:13.930 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 10:59:40.817 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 10:59:40.935 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 10:59:43.040 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 10:59:51.655 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 10:59:51.745 [main] BaseClass - password provided
+[INFO ] 2022-01-09 10:59:56.357 [main] BaseClass - Login passed
+[INFO ] 2022-01-09 10:59:59.080 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 10:59:59.166 [main] BaseClass - password provided
+[INFO ] 2022-01-09 11:00:06.396 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 11:00:06.489 [main] BaseClass - password provided
+[INFO ] 2022-01-09 11:14:25.684 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 11:14:25.857 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 11:14:27.715 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 11:14:34.820 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 11:14:34.906 [main] BaseClass - password provided
+[INFO ] 2022-01-09 11:14:39.775 [main] BaseClass - Login passed
+[INFO ] 2022-01-09 11:14:42.205 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 11:14:42.283 [main] BaseClass - password provided
+[INFO ] 2022-01-09 11:14:49.988 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 11:14:50.108 [main] BaseClass - password provided
+[INFO ] 2022-01-09 11:20:16.175 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 11:20:16.294 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 11:20:17.744 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 11:20:24.640 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 11:20:24.752 [main] BaseClass - password provided
+[INFO ] 2022-01-09 11:20:29.536 [main] BaseClass - Login passed
+[INFO ] 2022-01-09 11:20:33.252 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 11:20:33.346 [main] BaseClass - password provided
+[INFO ] 2022-01-09 11:20:40.571 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 11:20:40.676 [main] BaseClass - password provided
+[INFO ] 2022-01-09 18:45:02.106 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 18:45:02.191 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 18:45:04.281 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 18:45:11.693 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 18:45:11.786 [main] BaseClass - password provided
+[INFO ] 2022-01-09 18:45:16.729 [main] BaseClass - Login passed
+[INFO ] 2022-01-09 18:45:18.998 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 18:45:19.155 [main] BaseClass - password provided
+[INFO ] 2022-01-09 18:45:26.622 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 18:45:26.706 [main] BaseClass - password provided
+[INFO ] 2022-01-09 18:56:17.785 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 18:56:17.928 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 18:56:18.707 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 18:56:26.792 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 18:56:26.906 [main] BaseClass - password provided
+[INFO ] 2022-01-09 18:56:32.192 [main] BaseClass - Login Page Case is passed
+[INFO ] 2022-01-09 18:56:32.201 [main] BaseClass - Login passed
+[INFO ] 2022-01-09 18:56:34.997 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 18:56:35.064 [main] BaseClass - password provided
+[INFO ] 2022-01-09 18:56:42.687 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 18:56:42.768 [main] BaseClass - password provided
+[INFO ] 2022-01-09 19:41:56.769 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 19:41:56.889 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 19:41:59.064 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 19:42:06.210 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 19:42:06.375 [main] BaseClass - password provided
+[INFO ] 2022-01-09 19:42:08.362 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-09 19:42:11.387 [main] BaseClass - Log: Login Page Case is passed
+[INFO ] 2022-01-09 19:42:11.398 [main] BaseClass - Login passed
+[INFO ] 2022-01-09 19:42:14.086 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 19:42:14.172 [main] BaseClass - password provided
+[INFO ] 2022-01-09 19:42:14.949 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-09 19:42:21.544 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 19:42:21.629 [main] BaseClass - password provided
+[INFO ] 2022-01-09 19:42:22.376 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-09 19:48:36.374 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 19:48:36.461 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 19:48:38.222 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 19:48:45.297 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 19:48:45.376 [main] BaseClass - password provided
+[INFO ] 2022-01-09 19:48:47.143 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-09 19:48:50.175 [main] BaseClass - Log: Login Page Case is passed
+[INFO ] 2022-01-09 19:48:50.184 [main] BaseClass - Login passed
+[INFO ] 2022-01-09 19:48:53.115 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 19:48:53.238 [main] BaseClass - password provided
+[INFO ] 2022-01-09 19:48:53.957 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-09 19:49:00.976 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 19:49:01.054 [main] BaseClass - password provided
+[INFO ] 2022-01-09 19:49:01.815 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-09 19:51:26.981 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 19:51:27.075 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 19:51:29.040 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 19:51:36.273 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 19:51:36.447 [main] BaseClass - password provided
+[INFO ] 2022-01-09 19:51:38.489 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-09 19:51:41.519 [main] BaseClass - Log: Login Page Case is passed
+[WARN ] 2022-01-09 19:51:41.529 [main] BaseClass - Login passed
+[INFO ] 2022-01-09 19:51:44.152 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 19:51:44.254 [main] BaseClass - password provided
+[INFO ] 2022-01-09 19:51:44.994 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-09 19:51:51.876 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 19:51:51.960 [main] BaseClass - password provided
+[INFO ] 2022-01-09 19:51:52.677 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-09 22:38:00.706 [main] BaseClass - Entered Username
+[INFO ] 2022-01-09 22:38:00.749 [main] BaseClass - Entered Password
+[INFO ] 2022-01-09 22:38:02.519 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-09 22:38:07.909 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 22:38:07.944 [main] BaseClass - password provided
+[INFO ] 2022-01-09 22:38:09.463 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-09 22:38:12.471 [main] BaseClass - Log: Login Page Case is passed
+[WARN ] 2022-01-09 22:38:12.476 [main] BaseClass - Login passed
+[INFO ] 2022-01-09 22:38:14.542 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 22:38:14.572 [main] BaseClass - password provided
+[INFO ] 2022-01-09 22:38:15.232 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-09 22:38:21.193 [main] BaseClass - user name provided
+[INFO ] 2022-01-09 22:38:21.224 [main] BaseClass - password provided
+[INFO ] 2022-01-09 22:38:21.535 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-10 00:13:24.039 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 00:13:24.144 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 00:13:25.974 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 00:15:37.798 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 00:15:37.898 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 00:15:38.396 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 00:15:47.387 [main] BaseClass - user name provided
+[INFO ] 2022-01-10 00:15:47.547 [main] BaseClass - password provided
+[INFO ] 2022-01-10 00:15:49.086 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-10 00:15:52.115 [main] BaseClass - Log: Login Page Case is passed
+[WARN ] 2022-01-10 00:15:52.130 [main] BaseClass - Login passed
+[INFO ] 2022-01-10 00:15:55.037 [main] BaseClass - user name provided
+[INFO ] 2022-01-10 00:15:55.133 [main] BaseClass - password provided
+[INFO ] 2022-01-10 00:15:55.940 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-10 00:16:02.830 [main] BaseClass - user name provided
+[INFO ] 2022-01-10 00:16:02.930 [main] BaseClass - password provided
+[INFO ] 2022-01-10 00:16:03.651 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-10 00:16:13.172 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 00:16:13.362 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 00:16:15.146 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 14:08:41.848 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 14:08:41.941 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 14:08:43.293 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 14:08:50.335 [main] BaseClass - user name provided
+[INFO ] 2022-01-10 14:08:50.501 [main] BaseClass - password provided
+[INFO ] 2022-01-10 14:08:52.228 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-10 14:08:55.263 [main] BaseClass - Log: Login Page Case is passed
+[WARN ] 2022-01-10 14:08:55.276 [main] BaseClass - Login passed
+[INFO ] 2022-01-10 14:08:57.956 [main] BaseClass - user name provided
+[INFO ] 2022-01-10 14:08:58.024 [main] BaseClass - password provided
+[INFO ] 2022-01-10 14:08:58.800 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-10 14:09:05.447 [main] BaseClass - user name provided
+[INFO ] 2022-01-10 14:09:05.525 [main] BaseClass - password provided
+[INFO ] 2022-01-10 14:09:06.291 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-10 14:09:20.886 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 14:09:20.969 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 14:09:22.552 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 14:17:50.551 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 14:17:50.666 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 14:17:52.509 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 14:17:59.548 [main] BaseClass - user name provided
+[INFO ] 2022-01-10 14:17:59.624 [main] BaseClass - password provided
+[INFO ] 2022-01-10 14:18:00.339 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-10 14:18:03.376 [main] BaseClass - Log: Login Page Case is passed
+[WARN ] 2022-01-10 14:18:03.393 [main] BaseClass - Login passed
+[INFO ] 2022-01-10 14:18:06.044 [main] BaseClass - user name provided
+[INFO ] 2022-01-10 14:18:06.175 [main] BaseClass - password provided
+[INFO ] 2022-01-10 14:18:06.886 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-10 14:18:13.411 [main] BaseClass - user name provided
+[INFO ] 2022-01-10 14:18:13.488 [main] BaseClass - password provided
+[INFO ] 2022-01-10 14:18:13.878 [main] BaseClass - Clicked login button
+[INFO ] 2022-01-10 14:18:22.623 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 14:18:22.710 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 14:18:24.873 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 14:29:59.131 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 14:29:59.248 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 14:30:00.988 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 14:32:59.146 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 14:32:59.250 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 14:33:01.644 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 14:33:02.077 [main] BaseClass - providing customer details....
+[INFO ] 2022-01-10 14:35:18.589 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 14:35:18.760 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 14:35:20.814 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 14:35:21.280 [main] BaseClass - providing customer details....
+[INFO ] 2022-01-10 14:37:16.921 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 14:37:16.998 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 14:37:18.822 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 14:37:19.264 [main] BaseClass - providing customer details....
+[INFO ] 2022-01-10 14:56:27.767 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 14:56:27.847 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 14:56:29.508 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 15:00:05.459 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 15:00:05.547 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 15:00:07.284 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 15:00:17.745 [main] BaseClass - providing customer details....
+[INFO ] 2022-01-10 15:08:37.152 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 15:08:37.255 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 15:08:39.118 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 15:08:49.559 [main] BaseClass - providing customer details....
+[INFO ] 2022-01-10 15:09:32.699 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 15:09:33.185 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 15:09:35.122 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 15:09:45.444 [main] BaseClass - providing customer details....
+[INFO ] 2022-01-10 15:43:35.005 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 15:43:35.489 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 15:43:37.306 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 20:27:32.897 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 20:27:33.044 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 20:27:35.319 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 20:27:45.596 [main] BaseClass - providing customer details....
+[INFO ] 2022-01-10 20:36:50.513 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 20:36:50.632 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 20:36:52.062 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 20:37:02.399 [main] BaseClass - providing customer details....
+[INFO ] 2022-01-10 22:22:16.113 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 22:22:16.356 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 22:22:17.935 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 22:29:53.148 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 22:29:53.398 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 22:29:55.388 [main] BaseClass - Clicked loginButton
+[WARN ] 2022-01-10 22:30:05.961 [main] BaseClass - Login passed
+[INFO ] 2022-01-10 22:49:14.810 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 22:49:14.902 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 22:49:16.960 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 22:49:22.333 [main] BaseClass - Clicked on New User link
+[WARN ] 2022-01-10 22:49:27.366 [main] BaseClass - Login passed
+[INFO ] 2022-01-10 22:52:40.477 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 22:52:40.671 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 22:52:42.334 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 22:52:47.673 [main] BaseClass - Clicked on New User link
+[WARN ] 2022-01-10 22:52:52.709 [main] BaseClass - Login passed
+[INFO ] 2022-01-10 22:53:58.060 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 22:53:58.216 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 22:54:00.911 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 22:54:06.183 [main] BaseClass - Clicked on New User link
+[WARN ] 2022-01-10 22:54:11.221 [main] BaseClass - Login passed
+[INFO ] 2022-01-10 23:10:54.913 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 23:10:55.010 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 23:10:56.560 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 23:11:01.879 [main] BaseClass - Clicked on New User link
+[WARN ] 2022-01-10 23:11:06.918 [main] BaseClass - Login passed
+[INFO ] 2022-01-10 23:15:27.994 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 23:15:28.130 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 23:15:29.954 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 23:15:35.211 [main] BaseClass - Clicked on New User link
+[WARN ] 2022-01-10 23:15:40.246 [main] BaseClass - Login passed
+[INFO ] 2022-01-10 23:29:50.445 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 23:29:50.563 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 23:29:52.686 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 23:29:57.964 [main] BaseClass - Clicked on New User link
+[WARN ] 2022-01-10 23:30:02.985 [main] BaseClass - Login passed
+[INFO ] 2022-01-10 23:38:32.654 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 23:38:32.791 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 23:38:35.614 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 23:38:40.903 [main] BaseClass - Clicked on New User link
+[WARN ] 2022-01-10 23:38:45.937 [main] BaseClass - Login passed
+[INFO ] 2022-01-10 23:40:32.909 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 23:40:32.991 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 23:40:34.409 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 23:40:39.666 [main] BaseClass - Clicked on New User link
+[WARN ] 2022-01-10 23:40:44.704 [main] BaseClass - Login passed
+[INFO ] 2022-01-10 23:51:36.642 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 23:51:36.751 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 23:51:39.305 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 23:51:44.654 [main] BaseClass - Clicked on New User link
+[INFO ] 2022-01-10 23:54:45.452 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 23:54:45.540 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 23:54:48.563 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-10 23:54:53.841 [main] BaseClass - Clicked on New User link
+[INFO ] 2022-01-10 23:59:02.675 [main] BaseClass - Entered Username
+[INFO ] 2022-01-10 23:59:02.817 [main] BaseClass - Entered Password
+[INFO ] 2022-01-10 23:59:03.343 [main] BaseClass - Clicked loginButton
