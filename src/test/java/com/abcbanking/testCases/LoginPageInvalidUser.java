@@ -1,6 +1,7 @@
 package com.abcbanking.testCases;
 
 import org.openqa.selenium.Alert;
+import org.openqa.selenium.NoAlertPresentException;
 import org.testng.annotations.Test;
 
 import com.abcbanking.pageObjects.LoginPage;
@@ -24,21 +25,40 @@ public class LoginPageInvalidUser extends BaseClass
 	lpginv.enterPassword(Password);
 	
 	logger.info("Entered Password");
+	driver.manage().window().maximize();
+
 	lpginv.clickLoginButton();
 	logger.info("Clicked loginButton");
 	
-	driver.manage().window().maximize();
+
+	if (alertPresent()==true)
+	{
+		Alert alert=driver.switchTo().alert();
+		alert.accept();
+	}
+	else
+	{
+		System.out.println("no alert present");
+	}
 	
-	
-	
-	Alert alert=driver.switchTo().alert();
-	String AlertText = alert.getText();
-	System.out.println("Alert is "+AlertText);
-	alert.accept();
-	
+
 	
 	String PageTitle=driver.getTitle();
 	System.out.println("Page Title is"+PageTitle);
 
 	}
+	public boolean alertPresent()
+	{
+		try
+		{
+		driver.switchTo().alert();
+		return true;
+		}
+		catch(NoAlertPresentException e)
+		{
+			return false;
+		}
+	}
+	
+	
 }
