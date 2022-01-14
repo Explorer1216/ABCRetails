@@ -21,15 +21,7 @@ public class SampleTest {
     public static void main(String[] args) throws NoAlertPresentException,InterruptedException {
         // TODO Auto-generated method stub
 
-        /*        System.setProperty("Webdriver.chrome.driver", "D:\\JavaWS\\ABCRetails\\Drivers\\chromedriver.exe");
 
-        WebDriver driver = new ChromeDriver();
-
-        driver.get("http://demo.guru99.com/V1/index.php//");*/
-        
-    //    String path=System.getProperty("user.dir");
-      //  System.out.println(path);
-    	//logger.debug("This is debug");
 	/*
 	 * logger.info("This is Info"); logger.warn("This is Warn");
 	 * logger.error("This is error"); logger.fatal("This is fatal");
@@ -54,10 +46,7 @@ public class SampleTest {
 		NewCust.click();
 		System.out.println("Clicked on new cus link");
 		Thread.sleep(3000);
-		//cdriver.navigate().refresh();
-	    //WebElement NewCust1=cdriver.findElement(By.xpath("/html/body/div[3]/div/ul/li[2]/a"));
-		//NewCust1.click();
-		//System.out.println("Again Clicked on new cus link");
+		
 		Set<String> handler= cdriver.getWindowHandles();
 		
 		Iterator<String> itr=	handler.iterator();
@@ -73,11 +62,7 @@ public class SampleTest {
 			
 		}
 		
-		/*
-		 * String ChildWindow = itr.next();
-		 * System.out.println("Child Window is"+ChildWindow);
-		 * cdriver.switchTo().window(ParentwindowId); //cdriver.close();
-		 */		
+	
 		cdriver.switchTo().frame("google_ads_iframe_/24132379/INTERSTITIAL_DemoGuru99_0");
 		cdriver.findElement(By.xpath("//*[@id='dismiss-button']")).click();
 		

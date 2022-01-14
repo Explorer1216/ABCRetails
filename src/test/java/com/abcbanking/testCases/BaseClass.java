@@ -36,8 +36,7 @@ public class BaseClass
 	
 	ReadConfigurations Readprop=new ReadConfigurations();
 	
-	public String baseUrl=Readprop.getUrl();
-			//"http://demo.guru99.com/V1/index.php";
+	public String baseUrl=Readprop.getUrl();		
 	public String Username=Readprop.getUsername();
 	public String Password=Readprop.getPassword();
 	public String InvalidUsername=Readprop.getinvalidUsername();
@@ -72,7 +71,7 @@ public class BaseClass
 		else
 		
 		{	
-			//System.getProperty("user.dir")+"\\Drivers\\chromedriver.exe"
+			
 			System.setProperty("webdriver.ie.driver",Readprop.IEPath());
 			driver=new InternetExplorerDriver();
 			
