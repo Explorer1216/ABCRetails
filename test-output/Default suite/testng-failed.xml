@@ -5,7 +5,6 @@
     <classes>
       <class name="com.abcbanking.testCases.LoginPageInvalidUser">
         <methods>
-          <include name="Tear"/>
           <include name="setup"/>
           <include name="invalidUserLogin"/>
         </methods>
