@@ -82,13 +82,13 @@ public class BaseClass
 	}
 		
 
-	/*
-	 * @AfterClass public void Tear() {
-	 * 
-	 * driver.quit();
-	 * 
-	 * }
-	 */
+	
+	 @AfterClass public void Tear() {
+	 
+	 driver.quit();
+	 
+	  }
+	 
 	public void captureScreeshot(WebDriver driver,String TCName) throws IOException
 	{
 		

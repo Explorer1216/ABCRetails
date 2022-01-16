@@ -388,3 +388,6 @@
 [INFO ] 2022-01-12 17:02:53.449 [main] BaseClass - Entered Username
 [INFO ] 2022-01-12 17:02:53.574 [main] BaseClass - Entered Password
 [INFO ] 2022-01-12 17:02:54.496 [main] BaseClass - Clicked loginButton
+[INFO ] 2022-01-14 18:45:16.816 [main] BaseClass - Entered Username
+[INFO ] 2022-01-14 18:45:16.929 [main] BaseClass - Entered Password
+[INFO ] 2022-01-14 18:45:17.677 [main] BaseClass - Clicked loginButton
